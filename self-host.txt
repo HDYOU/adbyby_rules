@@ -1,0 +1,130 @@
+0.0.0.0		livewebbs2.msstatic.com
+0.0.0.0		web3610.top
+
+# 番茄小说
+0.0.0.0		ads3-normal-lf.zijieapi.com
+0.0.0.0		ads5-normal-lf.zijieapi.com
+0.0.0.0		ads3-normal-hl.zijieapi.com
+0.0.0.0		ads5-normal-hl.zijieapi.com
+0.0.0.0		polaris3-normal-lf.zijieapi.com
+0.0.0.0		polaris5-normal-lf.zijieapi.com
+0.0.0.0		gecko3-lf.zijieapi.com
+0.0.0.0		gecko5-lf.zijieapi.com
+0.0.0.0		mssdk3-normal-lf.zijieapi.com
+0.0.0.0		mssdk5-normal-lf.zijieapi.com
+0.0.0.0		log3-applog-lf.zijieapi.com
+0.0.0.0		log5-applog-lf.zijieapi.com
+0.0.0.0		rtlog3-applog-lf.zijieapi.com
+0.0.0.0		rtlog5-applog-lf.zijieapi.com
+0.0.0.0		log3-applog-lf.fqnovel.com
+0.0.0.0		log5-applog-lf.fqnovel.com
+0.0.0.0		rtlog3-applog-lf.fqnovel.com
+0.0.0.0		rtlog5-applog-lf.fqnovel.com
+
+0.0.0.0		tnc1-bjlgy.zijieapi.com
+0.0.0.0		tnc3-bjlgy.zijieapi.com
+0.0.0.0		tnc5-bjlgy.zijieapi.com
+0.0.0.0		tnc1-bjlgy.bytedance.com
+0.0.0.0		tnc3-bjlgy.bytedance.com
+0.0.0.0		tnc5-bjlgy.bytedance.com
+0.0.0.0		tnc3-alisc1.zijieapi.com
+0.0.0.0		tnc5-alisc1.zijieapi.com
+0.0.0.0		tnc11-alisc1.zijieapi.com
+0.0.0.0		tnc3-alisc1.bytedance.com
+0.0.0.0		tnc5-alisc1.bytedance.com
+0.0.0.0		tnc11-alisc1.bytedance.com
+0.0.0.0		tnc3-alisc2.zijieapi.com
+0.0.0.0		tnc5-alisc2.zijieapi.com
+0.0.0.0		tnc11-alisc2.zijieapi.com
+0.0.0.0		tnc3-alisc2.bytedance.com
+0.0.0.0		tnc5-alisc2.bytedance.com
+0.0.0.0		tnc11-alisc2.bytedance.com
+
+0.0.0.0		tnc3-aliec2.zijieapi.com
+0.0.0.0		tnc5-aliec2.zijieapi.com
+0.0.0.0		tnc11-aliec2.zijieapi.com
+0.0.0.0		tnc3-aliec2.bytedance.com
+0.0.0.0		tnc5-aliec2.bytedance.com
+0.0.0.0		tnc11-aliec2.bytedance.com
+
+0.0.0.0		mon3-misc-lf.fqnovel.com
+0.0.0.0		mon11-misc-lf.fqnovel.com
+0.0.0.0		mon3-misc-hl.fqnovel.com
+0.0.0.0		mon11-misc-hl.fqnovel.com
+0.0.0.0		bsync3-normal-hl.zijieapi.com
+0.0.0.0		bsync5-normal-hl.zijieapi.com
+0.0.0.0		bsync3-normal-lf.zijieapi.com
+0.0.0.0		bsync5-normal-lf.zijieapi.com
+0.0.0.0		mon.toutiao.com
+0.0.0.0		dzy.r147emh.com
+0.0.0.0		api3-normal-hl.fqnovel.com
+0.0.0.0		api5-normal-hl.fqnovel.com
+0.0.0.0		minigame3-normal-hl.zijieapi.com
+0.0.0.0		minigame5-normal-hl.zijieapi.com
+0.0.0.0		gecko3-hl.zijieapi.com
+0.0.0.0		gecko5-hl.zijieapi.com
+0.0.0.0		gecko3-lf.zijieapi.com
+0.0.0.0		gecko5-lf.zijieapi.com
+0.0.0.0		frontier-toutiao.snssdk.com
+0.0.0.0		p9-ad-sign.byteimg.com
+0.0.0.0		p3-novel.byteimg.com
+0.0.0.0		p5-novel.byteimg.com
+0.0.0.0		lf-cdn-tos.bytescm.com
+0.0.0.0		lf-cdn-tos.bytescm.com
+0.0.0.0		saveu5-normal-hl.zijieapi.com
+0.0.0.0		saveu5-normal-hl.zijieapi.com.c.dsa.cdnbuild.net
+0.0.0.0		mssdk-bu.bytedance.com
+0.0.0.0		beacon-api.aliyuncs.com
+0.0.0.0		monsetting.toutiao.com
+0.0.0.0		monsetting.toutiao.com.w.kunluncan.com
+0.0.0.0		mon.toutiaocloud.com
+0.0.0.0		feedback-c.zijieapi.com
+0.0.0.0		106.11.61.137
+# 字节A/B测试
+0.0.0.0		abtest3-misc-hl.zijieapi.com
+0.0.0.0		abtest5-misc-hl.zijieapi.com
+0.0.0.0		abtest3-misc-lf.zijieapi.com
+0.0.0.0		abtest5-misc-lf.zijieapi.com
+
+# dig.bdurl.net 广告过滤
+0.0.0.0		dig.bdurl.net
+0.0.0.0		dig-sc.bdurl.net
+0.0.0.0		dig-ec.bdurl.net
+0.0.0.0		bgp.netarch-alisc1-edge-lb.l.bytedns.net
+0.0.0.0		sub1.bgp.netarch-alisc1-edge-lb.l.bytedns.net
+0.0.0.0		sub2.bgp.netarch-alisc1-edge-lb.l.bytedns.net
+0.0.0.0		dig.bdurl.net.w.cdngslb.com
+
+# dig.zjurl.cn 广告过滤
+0.0.0.0		dig.zjurl.cn
+0.0.0.0		101.36.166.16
+0.0.0.0		101.36.166.17
+0.0.0.0		101.36.166.18
+0.0.0.0		101.36.166.19
+0.0.0.0		2401:be00:0:22::5
+0.0.0.0		2401:be00::22:0:0:0:5
+
+# 算法推荐监控
+0.0.0.0		pitaya.bytedance.com
+
+0.0.0.0		webcast-open-lf.douyin.com
+
+
+0.0.0.0		datacollector-drcn.dt.hicloud.com
+
+0.0.0.0		t1.dcloud.net.cn
+0.0.0.0		t2.dcloud.net.cn
+0.0.0.0		s1.dcloud.net.cn
+0.0.0.0		s2.dcloud.net.cn
+0.0.0.0		ac1.dcloud.net.cn
+0.0.0.0		ac2.dcloud.net.cn
+
+# 放行
+#106.122.251.219		novel.snssdk.com
+#122.225.67.237		reading.snssdk.com
+
+0.0.0.0		ctobsnssdk.com
+
+172.67.194.170	diyibanzhu.me
+
+59.37.82.93		zdfans.com

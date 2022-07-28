@@ -1,0 +1,18 @@
+[Adblock Plus 2.0]
+! Title: AdRules (For AdBlock) Self
+! Expires: 12 Hours
+! Version: 2021-12-09 22:15:39
+||cdn.jsdelivr.net/gh/diyibanzhu/
+||cdn.jsdelivr.net/*/*/*/analysis.js
+||cdn.jsdelivr.net/*/*/*/analysis.min.js
+||cdn.jsdelivr.net/*/*/*/cookie.js
+||cdn.jsdelivr.net/*/jsdelivr-header.js
+
+
+@@/\d+pz\d+\.(com|xyz)\/js\/logo.js/
+@@/\d+pz\d+\.(com|xyz)\/js\/domain.js/
+@@/\d+pz\d+\.(com|xyz)\/js\/jquery.js*/
+@@/\d+pz\d+\.(com|xyz)\/js\/newdz.js/
+@@/\d+pz\d+\.(com|xyz)\/js\/u.js/
+@@/\d+pz\d+\.(com|xyz)\/js\/menu.js/
+/\d+pz\d+\.(com|xyz)\/js/
