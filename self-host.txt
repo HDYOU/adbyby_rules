@@ -125,6 +125,51 @@
 0.0.0.0		ac1.dcloud.net.cn
 0.0.0.0		ac2.dcloud.net.cn
 
+# 快手广告
+0.0.0.0		adkwai.com
+0.0.0.0		p1.adkwai.com
+0.0.0.0		p2.adkwai.com
+0.0.0.0		p3.adkwai.com
+
+# UBiX 广告
+0.0.0.0		mdt.ubixioe.com
+0.0.0.0		sdk-data.ubixioe.com
+0.0.0.0		entry.ubixioe.com
+0.0.0.0		entry-test.ubixioe.com
+
+# inmobi 广告
+0.0.0.0		i.w.inmobi.cn
+0.0.0.0		i.l.inmobicdn.cn
+0.0.0.0		config.inmobi.cn
+0.0.0.0		sdk.inmobi.cn
+0.0.0.0		sdkm.w.inmobi.cn
+0.0.0.0		sdktm.w.inmobi.cn
+0.0.0.0		sdktm.w.inmobi.cn
+0.0.0.0		telemetry.sdk.inmobi.cn
+0.0.0.0		dock.inmobi.cn
+0.0.0.0		i.l.inmobicdn.cn
+
+# baomihua 爆米花视频 广告
+0.0.0.0		mha.baomihua.com
+0.0.0.0		mhx.baomihua.com
+0.0.0.0		mh.baomihua.com
+0.0.0.0		mhx-test.tuiyes.com
+0.0.0.0		djs.baomihua.com
+0.0.0.0		b1.baomihua.com
+0.0.0.0		a.baomihua.com
+0.0.0.0		resource.baomihua.com
+0.0.0.0		29293.com
+0.0.0.0		quickvideo.29293.com
+0.0.0.0		mha.baomihua.cn
+0.0.0.0		mhx.baomihua.cn
+0.0.0.0		mh.baomihua.cn
+0.0.0.0		mhx-test.tuiyes.cn
+0.0.0.0		djs.baomihua.cn
+0.0.0.0		b1.baomihua.cn
+0.0.0.0		a.baomihua.cn
+0.0.0.0		resource.baomihua.cn
+
+
 # 放行
 #106.122.251.219		novel.snssdk.com
 #122.225.67.237		reading.snssdk.com
