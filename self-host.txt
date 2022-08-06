@@ -80,6 +80,9 @@
 0.0.0.0		mon.toutiaocloud.com
 0.0.0.0		feedback-c.zijieapi.com
 0.0.0.0		106.11.61.137
+
+0.0.0.0		mon.snssdk.com
+
 # 字节A/B测试
 0.0.0.0		abtest3-misc-hl.zijieapi.com
 0.0.0.0		abtest5-misc-hl.zijieapi.com
@@ -96,6 +99,7 @@
 0.0.0.0		dig.bdurl.net.w.cdngslb.com
 
 # dig.zjurl.cn 广告过滤
+0.0.0.0		zjurl.cn
 0.0.0.0		dig.zjurl.cn
 0.0.0.0		101.36.166.16
 0.0.0.0		101.36.166.17
