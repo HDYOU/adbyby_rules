@@ -112,6 +112,8 @@
 0.0.0.0		pitaya.bytedance.com
 
 0.0.0.0		webcast-open-lf.douyin.com
+0.0.0.0		webcast3-open-lf.douyin.com
+0.0.0.0		webcast5-open-lf.douyin.com
 
 
 0.0.0.0		datacollector-drcn.dt.hicloud.com
