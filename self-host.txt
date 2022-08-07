@@ -84,16 +84,20 @@
 0.0.0.0		gecko.snssdk.com
 0.0.0.0		gecko.snssdk.com.bytedns1.com
 0.0.0.0		gecko.snssdk.com.w.cdngslb.com
+0.0.0.0		gecko.snssdk.com.w.kunlunhuf.com
 0.0.0.0		mon.snssdk.com
 0.0.0.0		mon.snssdk.com.bytedns1.com
 0.0.0.0		mon.snssdk.com.w.cdngslb.com
+0.0.0.0		mon.snssdk.com.w.kunlunhuf.com
 0.0.0.0		bsync.snssdk.com
 0.0.0.0		bsync.snssdk.com.bytedns1.com
 0.0.0.0		bsync.snssdk.com.w.cdngslb.com
+0.0.0.0		bsync.snssdk.com.w.kunlunhuf.com
 0.0.0.0		ad.zijieapi.com
 0.0.0.0		frontier.snssdk.com
 0.0.0.0		frontier.snssdk.com.bytedns1.com
 0.0.0.0		frontier.snssdk.com.w.cdngslb.com
+0.0.0.0		frontier.snssdk.com.w.kunlunhuf.com
 0.0.0.0		sf26-tos.ttwebview.com
 
 0.0.0.0		p6-be-pack-sign.pglstatp-toutiao.com
