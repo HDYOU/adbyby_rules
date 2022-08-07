@@ -82,6 +82,13 @@
 0.0.0.0		106.11.61.137
 
 0.0.0.0		mon.snssdk.com
+0.0.0.0		bsync.snssdk.com
+0.0.0.0		ad.zijieapi.com
+0.0.0.0		frontier.snssdk.com
+0.0.0.0		sf26-tos.ttwebview.com
+
+0.0.0.0		p6-be-pack-sign.pglstatp-toutiao.com
+0.0.0.0		p9-be-pack-sign.pglstatp-toutiao.com
 
 # 字节A/B测试
 0.0.0.0		abtest3-misc-hl.zijieapi.com
@@ -108,6 +115,9 @@
 0.0.0.0		2401:be00:0:22::5
 0.0.0.0		2401:be00::22:0:0:0:5
 
+
+0.0.0.0		mssdk.bytedance.com
+
 # 算法推荐监控
 0.0.0.0		pitaya.bytedance.com
 
@@ -124,6 +134,8 @@
 0.0.0.0		s2.dcloud.net.cn
 0.0.0.0		ac1.dcloud.net.cn
 0.0.0.0		ac2.dcloud.net.cn
+
+
 
 # 快手广告
 0.0.0.0		adkwai.com
