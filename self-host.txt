@@ -195,6 +195,13 @@
 0.0.0.0		resource.baomihua.cn
 
 
+0.0.0.0		n5371.com
+0.0.0.0		9767t.com
+0.0.0.0		8806v.com
+0.0.0.0		3938t.com
+0.0.0.0		6582s.com
+0.0.0.0		n1164.com
+
 # 放行
 #106.122.251.219		novel.snssdk.com
 #122.225.67.237		reading.snssdk.com
