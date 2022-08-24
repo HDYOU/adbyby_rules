@@ -204,6 +204,19 @@
 0.0.0.0		6582s.com
 0.0.0.0		n1164.com
 
+0.0.0.0		tklm11.top
+0.0.0.0		tklm22.top
+0.0.0.0		tklm33.top
+0.0.0.0		tklm33.top
+0.0.0.0		tklm44.top
+0.0.0.0		tklm55.top
+0.0.0.0		tklm66.top
+0.0.0.0		tklm77.top
+0.0.0.0		tklm88.top
+0.0.0.0		tklm99.top
+# 天空联盟
+0.0.0.0		tiankonglm.com
+
 # 放行
 #106.122.251.219		novel.snssdk.com
 #122.225.67.237		reading.snssdk.com
